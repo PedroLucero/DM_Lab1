@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_HolaMundo_VA</string>
+    <string name="button">Imprimir texto!</string>
+    <string name="hola">Reescribeme</string>
+    <string name="checkbox">Eres humano?</string>
+    <string name="buttonSalir">Regresar</string>
+</resources>
